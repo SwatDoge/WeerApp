@@ -1,0 +1,14 @@
+{
+    "written_direction": null,
+    "temp": null,
+    "mintemp": null,
+    "maxtemp": null,
+    "wind_speed": null,
+    "air_pressure": null,
+    "dropdown": null,
+    "sunrise": null,
+    "sunset": null,
+    "feels_like": null,
+    "dir": null,
+    "weatherstatus": null
+}

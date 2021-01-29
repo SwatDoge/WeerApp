@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "location_type": 1,
+        "isFarenheit": 0
+    },
+    "location": {
+        "selected": null,
+        "trackPerms": false
+    },
+    "fetch": {
+        "last_location": null,
+        "current_location": {"long": 0,"lat": 0,"permission": false},
+        "set_location": "epeh-lagos-nigeria"
+    }
+}
